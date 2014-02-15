@@ -7,3 +7,4 @@ Git is a mutable index called stage.
 my stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 add merge
+bug brahce test
